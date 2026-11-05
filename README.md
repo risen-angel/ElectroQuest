@@ -47,6 +47,7 @@ The circuit simulation uses a simplified signal-processing model rather than a f
 - **Numerical Computing:** NumPy, SciPy
 - **Visualisation:** Plotly
 
+Deployed Link : https://electroquest.streamlit.app/
 ---
 
 **Electroquest — Simulate. Measure. Diagnose. Understand.**
